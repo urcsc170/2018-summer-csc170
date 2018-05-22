@@ -1,5 +1,5 @@
 # Lab 4: Structured HTML Document
-*Due: Friday, May 25, 2018 at 9:00 AM (before the next lab comes out)*
+*Due: Friday, May 25, 2018 at 9:00 AM (before the next class)*
 
 This assignment tests your ability to take "real" content and mark it up using semantically correct HTML. You will use the content you prepared from Wikipedia and fulfill the requirements as described in this document.
 
