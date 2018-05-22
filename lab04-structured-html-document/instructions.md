@@ -11,7 +11,7 @@ This assignment tests your ability to take "real" content and mark it up using s
 
 - In addition to the usual HTML5 template, inside the **BODY** tags, create a set of tags that will be used as your structure. You must use the following tags in your HTML document:  **HEADER, ARTICLE, ASIDE, and FOOTER** ...exactly those, in that order.
 
- Here’s a template you can use to get your layout elements started:
+ Here's a template you can use to get your layout elements started:
 
 ```html
 <!doctype html>
