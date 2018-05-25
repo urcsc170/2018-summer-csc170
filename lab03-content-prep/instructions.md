@@ -20,10 +20,12 @@ Go to Wikipedia and find a topic that interests you and has enough content for t
 
 ### Elements (parts) You Need...
 
+The overall word count for the content you collect must be above about 1,000 words or so - so you have enough content to work with in the following labs.  No one will count exactly how many words you use unless it looks like there isn't enough.
+
 -   A title (this will act as a first level heading)
 -   A subtitle (most Wikipedia pages don't have subtitles. You can just make one up.)
 -   At least four second level headings
--   At least three paragraphs of text associated with *each* of the first three second level headings
+-   At least three paragraphs of text associated with *each* of the first three second level headings; each paragraph should be at least 50 words (more is better)
 -   At least two lists with at least seven items each: unordered, ordered or definition list (any combination); they must appear under the last second level heading
 -   At least three references and/or external links with their complete text and hypertext-links to other sources 
     -   NOTE: copy & paste the URLs right in the text next to each citation
