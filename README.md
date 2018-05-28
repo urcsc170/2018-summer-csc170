@@ -8,7 +8,7 @@ Web Design and Development
 
 - Current assignments you should be working on:
   - Fix Lab 4 errors
-  - [no new assignments until Monday]
+  - [no new assignments until Wednesday]
 - Previous assignments:  
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) 
   - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) 
