@@ -1,4 +1,4 @@
-# Lab 5: CSS for Formatting
+# Lab 5: CSS for Formatting (Part 1)
 
 *Due: Wednesday, May 30, 2018 (today)*
 
@@ -17,8 +17,6 @@ Note: curb your creativity for this lab assignment.  The next lab will let you e
 - In your **css** folder, in the same way you originally created your original HTML file (a *plain text* file), create a new plain text file and name it: **styles.css** (Make sure your new **styles.css** file is in the new **css** folder)
 
 - Edit the Lab 5 HTML document (**start.html**). In the `<head>` of that document, create a `<link>` to the CSS file that you created in the **css** folder. 
-  - An example of the **link** tag was demo'd in the last lecture. 
-    `<link rel="stylesheet" href="css/styles.css">`
   - Typically, the `<link>` tag goes under the `<meta>` and `<title>` tags, but technically, it’ll work anywhere.
 
 ## Step 3: Write some CSS – test the connection
@@ -38,7 +36,7 @@ When you’re done with this step delete the `body { color: red; }` code from yo
 ## Step 4: Add styles to your HTML document using CSS
 
 For the rest of this section, you will write CSS code into your CSS document.
-For each instruction to find out how to code it, Google: `CSS ______________`  e.g. “CSS background color” to find some examples
+For each instruction to find out how to code it, Google: **CSS ______________**  e.g. “CSS background color” to find some examples.
 
 Remember the syntax for CSS:
 
@@ -54,7 +52,7 @@ Remember the syntax for CSS:
 
 - As you write CSS code, use lots of **white space**! Make sure you indent and space your CSS selectors and declarations appropriately to make it easy to read the code.
 
-- Give the entire web page the following set of **default styles**<br> (Hint: to create default styles for a webpage use the `body {}` selector in your CSS file to set styles that will “cascade” throughout the webpage)
+- [ ] Give the entire web page the following set of **default styles**<br> (Hint: to create *default styles* for a webpage use the `body {}` selector in your CSS file to set styles that will “cascade” throughout the document); the following styles are required:
 
   - **Background color** of `#DFEFF0` (that last character is a zero, not an “o”)
 
@@ -62,7 +60,7 @@ Remember the syntax for CSS:
 
   - **Font family** of: `Arial, Helvetica, sans-serif`
 
-- All **first level headings** should be styled like this: 
+- [ ] All **first level headings** should be styled like this: 
 
   - Text **color** of `#AD235F`
 
@@ -82,7 +80,7 @@ Remember the syntax for CSS:
 
   - A **line height** of `1.2em`
 
-- Set the **padding** on any lists you use (**ol** and **ul**) so they have `15px` on their **left**
+- Set the lists (**ol** and **ul**) so they have `15px` of **padding** on their **left**
 
 - Set all the **figure** elements in your document so they **float** to the **right**
 
@@ -96,13 +94,14 @@ Remember the syntax for CSS:
 
   - Add this selector to your CSS:
      `a:hover { color: #AD235F; }`
+     (The "`:`" after the `a` is called a pseudo selector. We'll talk about that in the next lecture.)
 
 ## Step 5: Upload your work
 
-When you are done with your webpage, use an FTP tool to access your account on **urcsc170.org** and upload your files into a new folder named **lab05**
+When you are done with your webpage, use an FTP tool to access your account on **csc170.org** and upload your files into a new folder named **lab05**
 
 In a web browser (any), go to this address to check your handiwork:  
-**www.urcsc170.org/accountname/lab05/start.html** (where “*accountname*” is your account name)
+**www.csc170.org/accountname/lab05/start.html** (where “*accountname*” is your account name)
 
 Remember: All files and folder names must always be all lowercase and no spaces.
 
