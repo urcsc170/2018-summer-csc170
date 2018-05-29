@@ -7,9 +7,11 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - Fix Lab 4 errors
-  - [no new assignments until Wednesday]
+  - [Project 1: Classic HTML Document, assigned](project01-classic-html-document/instructions.md) (due: Wednesday, June 6)
+  - [Lab 5: CSS for Formatting](lab05-css-for-formatting-1/instructions.md) (due: in-class)
+  - [Lab 6: More CSS for Formatting](lab06-css-for-formatting-2/instructions.md) (due: Friday, June 1)
 - Previous assignments:  
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) 
   - [Lab 2: First HTML Webpage](lab02-first-html-webpage/instructions.md) 
   - [Lab 1: Account Setup](lab01-account-setup/instructions.md)
+
