@@ -16,7 +16,7 @@ In this assignment, you will create an HTML document (a single page website) and
 - The report must be about an important **person** who has made or is making important contributions to the Internet, Web, the field of computer science, or society in general.
 - Hint: you can go back to Wikipedia and get more content so long as you do *not* reuse the content you used for the lab assignments. 
 
-**Step 1 (recommended):** create your report in any word processing format (e.g. MS Word).  (Note: you will *not *need to turn this part in.)  Your document must contain a minimum of the following:
+**Step 1 (recommended):** create your report in any word processing format (e.g. MS Word).  (Note: you will *not* need to turn this part in.)  Your document must contain a minimum of the following:
 
 - At least 1400 words (Note: Nobody is going to count your words.  Just make you have a lot of content.  Your Project 2 will depend on it.)
 - An outline that contains lots of paragraphs
@@ -32,18 +32,29 @@ In this assignment, you will create an HTML document (a single page website) and
 - A **Level 1 Heading** that states the name of your topic, for example: `<h1>Marc Andreessen</h1>` <br>(Note: this will be the only Level 1 Heading you will use in this document.)
 - **Multiple sections with their own titles** (i.e. an outline) – you will format the section titles as Level 2 Headings; if there are more sub-sections, you can use Level3, Level 4, et cetera
   - Note: You **cannot** use a Level 3 unless there’s a Level 2 somewhere before it IN THE SAME SECTION; and you cannot use a Level 4 unless there’s a Level 3 somewhere before it; et cetera.
-- **Citations (references) **to other online documents – you will use anchor tags to link directly to your references
+- **Citations (references) ** to other online documents – you will use anchor tags to link directly to your references
   - You can use inline citations and/or citations at the end of the document.  (A combination of both would be nice.)
   - Note: you can also have old fashioned citations in MLA or ALA format in your document too; but there has to be at least two hyperlinks using anchor tags
 - Lots of **Paragraphs**of text.
-- **Semanticmarkup **– any combination of inline elements like: strong, emphasis or any other valid HTML tag used properly wherever it makes semantic sense.  
-  - You are **not** required to use the same structural elements you used in the lab assignments, rather you must use structural tags that are appropriate for your content
-  - So don't just use HEADER, ARTICLE, ASIDE, FOOTER like we did in the labs.  Use any combination of structural tags that make sense for your content.
-- **A table**,in which you present “tabular data” only.
+- **Semantic markup ** – any combination of inline elements like: strong, emphasis or any other valid HTML tag used properly wherever it makes semantic sense.  
+  - You may **not** to use the same structural elements you used in the lab assignments, rather you must use structural tags that are appropriate for your content
+
+  - I.e. you must **not** use this structure:
+
+    ```html
+    <header></header>
+    
+    <article></article>
+    
+    <aside></aside>
+    
+    <footer></footer> 
+    ```
+- **A table**, in which you present “tabular data” only.
   - Note: you cannot use a table just to layout non-tabular content in a grid. Tables must contain data laid out in rows and columns.
   - We haven’t covered how to code tables in lecture. You can look up how to code tables online.
     - Beware of the examples given in the W3 Schools website.  Do **not** use the `width=""` attribute or inline style attribute (ever).
-  - In the opening table tag, use the attribute `border="1"` to turn on borders to make it easier to see the table in your plain HTML document.
+  - In the opening table tag, use the attribute `border` to turn on borders to make it easier to see the table in your plain HTML document.
     - You'll remove that when we get to Project 2 and use CSS instead. But in the meantime, the validator might mark the "border" attribute with a warning or error, but in this case it's excusable.  
 - **Images** which should be appropriately sized for the document (less than about 300 pixels wide or so would be good)
   - It is *not* required to use a FIGURE and FIGCAPTION element with your images (you can, but it's not required)
@@ -56,8 +67,8 @@ NOTE: in your HTML document you can have lots of examples of each of the element
 ### Location
 
 - Your one-page web site must be mounted on the class web server, within your account where you’ll create a new folder that must be exactly this: **project1** …all lower case, spelled exactly like that.
-- The name of the HTML document must be exactly this: **index.html **(*not* **start**.html this time) …all lower case, spelled exactly like that. 
-- The image you use must be in a subdirectory of the **project1 **folder, and it must be named **images**
+- The name of the HTML document must be exactly this: **index.html** (*not* **start**.html this time) …all lower case, spelled exactly like that. 
+- The image you use must be in a subdirectory of the **project1** folder, and it must be named **images** 
 - Validate the HTML file (**http://validator.w3.org/**)
 
 ## Report your work
