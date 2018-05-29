@@ -28,14 +28,13 @@ In this assignment, you will create an HTML document (a single page website) and
 **Step 2:** replicate your report in HTML.  Your HTML document must contain a minimum of the following types of elements:
 
 - **A proper HTML structure** using the HTML5 specification.  (Use an HTML5 template.)
-- A **title** in the `<title>` tag (in the `<head>`) that says, `Project 1 -` ...followed by your topic, for example: `<title>Project1 - Marc Andreessen</title>`
+- A **title** in the TITLE tag (in the HEAD) that says, "Project 1 - " ...followed by your topic, for example: `<title>Project1 - Marc Andreessen</title>`
 - A **Level 1 Heading** that states the name of your topic, for example: `<h1>Marc Andreessen</h1>` <br>(Note: this will be the only Level 1 Heading you will use in this document.)
-- **Multiple sections with their own titles** (i.e. an outline) – you will format the section titles as Level 2 Headings; if there are more sub-sections, you can use Level3, Level 4, et cetera
-  - Note: You **cannot** use a Level 3 unless there’s a Level 2 somewhere before it IN THE SAME SECTION; and you cannot use a Level 4 unless there’s a Level 3 somewhere before it; et cetera.
+- **Multiple sections with their own titles** (i.e. a proper document outline) – you will format the section titles as Level 2 Headings; if there are more sub-sections, you can use Level3, Level 4, et cetera
 - **Citations (references)** to other online documents – you will use anchor tags to link directly to your references
   - You can use inline citations and/or citations at the end of the document.  (A combination of both would be nice.)
   - Note: you can also have old fashioned citations in MLA or ALA format in your document too; but there has to be at least two hyperlinks using anchor tags
-- Lots of **Paragraphs**of text.
+- Lots of **paragraphs** of text.
 - **Semantic markup** – any combination of inline elements like: strong, emphasis or any other valid HTML tag used properly wherever it makes semantic sense.  
   - You may **not** to use the same structural elements you used in the lab assignments, rather you must use structural tags that are appropriate for your content
 
@@ -51,15 +50,10 @@ In this assignment, you will create an HTML document (a single page website) and
     <footer></footer> 
     ```
 - **A table**, in which you present “tabular data” only.
-  - Note: you cannot use a table just to layout non-tabular content in a grid. Tables must contain data laid out in rows and columns.
-  - We haven’t covered how to code tables in lecture. You can look up how to code tables online.
-    - Beware of the examples given in the W3 Schools website.  Do **not** use the `width=""` attribute or inline style attribute (ever).
-  - In the opening table tag, use the attribute `border` to turn on borders to make it easier to see the table in your plain HTML document.
+  - Required: in the opening table tag, use the attribute `border` to turn on borders to make it easier to see the table in your plain HTML document.
     - You'll remove that when we get to Project 2 and use CSS instead. But in the meantime, the validator might mark the "border" attribute with a warning or error, but in this case it's excusable.  
-- **Images** which should be appropriately sized for the document (less than about 300 pixels wide or so would be good)
-  - It is *not* required to use a FIGURE and FIGCAPTION element with your images (you can, but it's not required)
+- **Images** which should be appropriately sized for the document 
 - **A list of things**, either unordered, ordered, or definition
-  - Make sure you use the appropriate type of list for the content you’representing.  For instance, use an **order**ed list only if the items are sequential (1,2,3…).
   - You *can* use a list for your citations at the end of the document, but that does *not* count toward the requirement of "a list of things."  You need to have another list somewhere in the main content area of your document.
 
 NOTE: in your HTML document you can have lots of examples of each of the elements listed above, but the minimum is at least one of each.
