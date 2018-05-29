@@ -32,11 +32,11 @@ In this assignment, you will create an HTML document (a single page website) and
 - A **Level 1 Heading** that states the name of your topic, for example: `<h1>Marc Andreessen</h1>` <br>(Note: this will be the only Level 1 Heading you will use in this document.)
 - **Multiple sections with their own titles** (i.e. an outline) – you will format the section titles as Level 2 Headings; if there are more sub-sections, you can use Level3, Level 4, et cetera
   - Note: You **cannot** use a Level 3 unless there’s a Level 2 somewhere before it IN THE SAME SECTION; and you cannot use a Level 4 unless there’s a Level 3 somewhere before it; et cetera.
-- **Citations (references) ** to other online documents – you will use anchor tags to link directly to your references
+- **Citations (references)** to other online documents – you will use anchor tags to link directly to your references
   - You can use inline citations and/or citations at the end of the document.  (A combination of both would be nice.)
   - Note: you can also have old fashioned citations in MLA or ALA format in your document too; but there has to be at least two hyperlinks using anchor tags
 - Lots of **Paragraphs**of text.
-- **Semantic markup ** – any combination of inline elements like: strong, emphasis or any other valid HTML tag used properly wherever it makes semantic sense.  
+- **Semantic markup** – any combination of inline elements like: strong, emphasis or any other valid HTML tag used properly wherever it makes semantic sense.  
   - You may **not** to use the same structural elements you used in the lab assignments, rather you must use structural tags that are appropriate for your content
 
   - I.e. you must **not** use this structure:
