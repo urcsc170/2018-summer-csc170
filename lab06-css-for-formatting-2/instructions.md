@@ -1,5 +1,5 @@
 # Lab 6 – CSS for Formatting (Part 2)
-*Due: Friday, June 1, 2018*<br>
+*Due: Monday, June 4, 2018*<br>
 
 The purpose of this lab is to take what you've learned in CSS and experiment with it so you end-up with a completely different looking webpage. Feel free to create your own design. Your work will not be graded on its aesthetic value, however whatever you do, all the content must still be usable and readable.
 

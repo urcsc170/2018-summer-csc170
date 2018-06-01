@@ -1,6 +1,6 @@
 # Lab 5: CSS for Formatting (Part 1)
 
-*Due: Wednesday, May 30, 2018 (today)*
+*Due: Friday, June 1, 2018*
 
 In this assignment you simply need to follow the instructions to add pre-defined styles to your HTML document.  You may have to lookup the syntax on how to write the CSS code, but the properties you need to use and the values that go with them are all in the instructions below.
 
