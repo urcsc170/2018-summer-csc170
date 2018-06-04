@@ -9,6 +9,7 @@ Web Design and Development
 - Current assignments you should be working on:
   - [Project 1: Classic HTML Document, assigned](project01-classic-html-document/instructions.md) (due: Wednesday, June 6)
   - [Lab 7 CSS for Layout](lab07-css-for-layout/instructions.md) (due: Monday, June 4)
+  - [Lab 8 CSS for Navigation](lab08-css-for-navigation/instructions.md) (due: Wednesday, June 6)
 - Previous assignments:  
   - [Lab 6: More CSS for Formatting](lab06-css-for-formatting-2/instructions.md)
   - [Lab 5: CSS for Formatting](lab05-css-for-formatting-1/instructions.md)
