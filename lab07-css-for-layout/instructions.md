@@ -50,8 +50,9 @@ Using the CSS **Grid** layout technique, position your HEADER, ARTICLE, ASIDE, a
 
 - All four structural elements in your webpage must be positioned using GRID properties.
 - For this part, the goal is to *not* alter your original HTML document. However, depending on how you setup your content originally in your ARTICLE and ASIDE you may need to move some content around to balance the page layout. (Normally you would never do that, but for these lab assignments it's okay.)
+- [ ] To effect the layout using CSS Grid, you'll need to use the following styles in your CSS.  These styles must target *the one HTML element that directly contains* the four structural elements (HEADER, ARTICLE, ASIDE, FOOTER) so apply them to the style that already exists: your `.container { }` style
 
-- [ ] To effect the layout using CSS Grid, you'll need to use the following styles in your CSS.  These styles must target *the HTML element that directly contains* the four structural elements (HEADER, ARTICLE, ASIDE, FOOTER)
+Add this to your .container style...
 
 
 ```html
