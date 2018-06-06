@@ -1,5 +1,5 @@
 # Lab 9: Background Images
-*Due: Wednesday, March 7, 2018 at 9:00 AM*
+*Due: Friday, June 8, 2018*
 
 ## Step 1: Prepare images to use as background images in your website
 
