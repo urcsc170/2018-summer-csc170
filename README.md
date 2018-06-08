@@ -10,8 +10,8 @@ Web Design and Development
   - [Lab 9 Background Images](lab09-background-images/instructions.md) (due: Friday, June 8)
 - Previous assignments:  
   - [Project 1: Classic HTML Document, assigned](project01-classic-html-document/instructions.md) 
-  - [Lab 7 CSS for Layout](lab07-css-for-layout/instructions.md)
   - [Lab 8 CSS for Navigation](lab08-css-for-navigation/instructions.md)
+  - [Lab 7 CSS for Layout](lab07-css-for-layout/instructions.md)
   - [Lab 6: More CSS for Formatting](lab06-css-for-formatting-2/instructions.md)
   - [Lab 5: CSS for Formatting](lab05-css-for-formatting-1/instructions.md)
   - [Lab 4: Structured HTML Document](lab04-structured-html-document/instructions.md) 
