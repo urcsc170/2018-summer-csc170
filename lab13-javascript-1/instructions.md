@@ -1,5 +1,5 @@
 # Lab 13: JavaScript, Part 1
-*Due: Friday, June 15, 2018 (today)*
+*Due: Monday, June 18, 2018*
 
 For this lab, you will take a set of HTML and CSS **starter files**, downloaded from Blackboard, and add JavaScript using three techniques: external; embedded; and event
 

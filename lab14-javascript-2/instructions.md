@@ -1,5 +1,5 @@
 # Lab 14: JavaScript, Part 2
-*Due: Monday, June 18, 2018*
+*Due: Wednesday, June 20, 2018*
 
 For this lab, you will do much the same as what you did in Lab 13 except this time you’ll use your own content from Lab 12, and insert some simple JavaScript behaviors.
 
