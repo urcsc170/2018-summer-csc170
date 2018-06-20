@@ -7,8 +7,10 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [Lab 14: JavaScript, Part 2](lab14-javascript-2/instructions.md) (due: Wednesday, June 20)
+  - [Lab 15 JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Friday, June 22)
+  - [Project 3 - Multipage Website](project03-multipage-website/instructions.md) (due: Friday, June 29)
 - Previous assignments:  
+  - [Lab 14: JavaScript, Part 2](lab14-javascript-2/instructions.md) 
   - [Lab 13: JavaScript, Part 1](lab13-javascript-1/instructions.md)
   - [Lab 12 HTML Forms, Part 2](lab12-html-forms-2/instructions.md)
   - [Lab 11 HTML Forms, Part 1](lab11-html-forms-1/instructions.md)
