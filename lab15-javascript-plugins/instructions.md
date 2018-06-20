@@ -86,10 +86,10 @@ OPTIONALLY: go into your **home.css** file and change/add styles as you see fit 
 ## Check and Upload your Work
 - Validate the HTML file ([http://validator.w3.org/](http://validator.w3.org/))
 
-When you are done with your webpage, close everything and use an FTP tool (to access your account on **urcsc170.org** and upload your files:
+When you are done with your webpage, close everything and use an FTP tool (to access your account on **csc170.org** and upload your files:
 
 - In a web browser (any), go to this address to check your handiwork: 
-	```www.urcsc170.org/accountname/lab15/index.php```<br>
+	```www.csc170.org/accountname/lab15/index.php```<br>
 	(where *accountname* is your account name)
 
 ## Report your work
