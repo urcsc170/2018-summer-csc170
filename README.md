@@ -7,9 +7,10 @@ Web Design and Development
 <hr>
 
 - Current assignments you should be working on:
-  - [Lab 15 JavaScript Plugins](lab15-javascript-plugins/instructions.md) (due: Friday, June 22)
+  - [Lab 16 Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md) (due: in-class, Friday, June 22)<br>([lab16-menu-highlighter/menu-highlighter.js (in a ZIP file)](menu-highlighter.zip)) required for Lab 16
   - [Project 3 - Multipage Website](project03-multipage-website/instructions.md) (due: Friday, June 29)
 - Previous assignments:  
+  - [Lab 15 JavaScript Plugins](lab15-javascript-plugins/instructions.md)
   - [Lab 14: JavaScript, Part 2](lab14-javascript-2/instructions.md) 
   - [Lab 13: JavaScript, Part 1](lab13-javascript-1/instructions.md)
   - [Lab 12 HTML Forms, Part 2](lab12-html-forms-2/instructions.md)
