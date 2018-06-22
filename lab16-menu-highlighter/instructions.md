@@ -6,7 +6,7 @@ In Lab 14, you factored-out your NAV element from your HTML documents and put it
 ## Step 1: Install the Menu Highlighter Plugin
 
 - [ ] Make a copy of your **lab15** folder.  Call it **lab16**
-
+- [ ] In the **lab16** folder, create a folder named **js**
 - [ ] [Download the **menu-highlighter.js** file (in a ZIP file)](menu-highlighter.zip), extract the JS file and install it in the **js** folder in your **lab16** folder
 
 Note:  The **menu-highlighter.js** file will automatically insert the "is-current" class on the appropriate menu item in the navigation.  But you have to install the **menu-highlighter.js** file on every page to make it work.  But instead of doing that on every page…
@@ -26,7 +26,7 @@ Note:  The **menu-highlighter.js** file will automatically insert the "is-curren
 - [ ] Then in the appropriate place on each webpage (directly above the closing BODY tag) use the PHP code to include the scripts.inc file like this:
 
 	```php+HTML
-	<?php include "inc/**scripts.inc**"; ?>
+	<?php include "inc/scripts.inc"; ?>
 	```
 
   - Note that the **index** page, the jQuery installation already exists.  You must never install the same library twice on the same page!  So…
