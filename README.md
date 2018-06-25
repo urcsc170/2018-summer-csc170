@@ -8,6 +8,7 @@ Web Design and Development
 
 - Current assignments you should be working on:
   - [Lab 17: Mobile Design](lab17-mobile-design/instructions.md) (due: Wednesday, June 27)
+  - [Lab 18: SEO](lab18-seo/instructions.md) (due: Friday, June 29)
   - [Project 3 - Multipage Website](project03-multipage-website/instructions.md) (due: Friday, June 29)
 - Previous assignments:  
   - [Lab 16 Menu Highlighter Plugin](lab16-menu-highlighter/instructions.md)
